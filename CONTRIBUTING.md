@@ -12,7 +12,7 @@
 | `docs/` | `docs:` | ドキュメントの変更や追加 |
 | `ci/` | `ci:` | GitHub ActionsやCircleCIなどのCI/CD設定ファイルの変更 |
 | `chore/` | `chore:` | その他の雑多な作業 |
-| `test/` | `test:` | testコードの修正や追加　| 
+| `test/` | `test:` | testコードの修正や追加 | 
 
 コミットメッセージはプレフィクスは英語、説明は日本語にする。
 
@@ -37,7 +37,7 @@
    ```
 4. push する（初回だけ `-u` を付ける）
    ```
-   git push -u　origin ブランチ名
+   git push -u origin ブランチ名
    git push # 2回目以降
    ```
 5. GitHubでPRを作る（作業branch -> main）
