@@ -19,3 +19,6 @@ Pythonからライブラリとして呼び出せる小規模なVMの作製して
 | 0x41 | MOV R1, R0 | R1 = R0 |
 
 このほか、内部にプログラムカウンタ pc を持たせる
+
+## 開発ルール（確認用）
+[CONTRIBUTING.md](CONTRIBUTING.md)
